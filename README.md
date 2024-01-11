@@ -33,4 +33,4 @@ JavaScript: For dynamic content and client-side scripting.
 PHP: Backend logic, server-side processing, and database interaction.
 MySQL: Database management for storing and retrieving website data.
 Contributing
-Contributions to improve [Your Website Name] are welcome. Feel free to fork the repo and submit pull requests.
+Contributions to improve the Hotel Booking Website are welcome. Feel free to fork the repo and submit pull requests.
